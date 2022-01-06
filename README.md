@@ -21,4 +21,4 @@ In order to use this extension, run-
 
 <br>
 
-![screenshot of the extension](screenshot.png)
+![screenshot of the extension](Screenshot.png)
