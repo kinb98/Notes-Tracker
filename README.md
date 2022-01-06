@@ -5,8 +5,8 @@ This repo contains a chrome extension which you can to save bookmarks or importa
 In order to use this extension, run-
 
 - `git clone`
-- Open Chrome > Settins > More tools > Extensions OR open `chrome://extensions/` in chrome
-- In the Extensions page, tick Developer mode on the top righ corner.
+- Open Chrome > Settings > More tools > Extensions OR open `chrome://extensions/` in chrome
+- In the Extensions page, tick Developer mode on the top right corner.
 - Click `Load unpacked-extension`.
 - Choose the cloned repo and you are Done!
 
